@@ -1,8 +1,0 @@
-#mac osx
-.DS_Store
-
-# eclipse config
-.classpath
-build/
-/bin
-.settings/
